@@ -1,4 +1,19 @@
-.cabecalho{
- color: #ac635c;
-}
+.root{
+    --cxabecalho:  #fff;
+    --texto-cabecalho: #ac635c;
+    --texto-titulo: #fff;
+    --texto-geral: #ffe3e3;
+    --caixa-texto: #ac635c;
+    --caixa-texto-2: #000;
 
+    body{
+        background-color: #fff;
+    }
+
+    .cabecalho{
+        color: var(--texto-cabecalho);
+    }
+
+
+
+}
