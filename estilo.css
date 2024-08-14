@@ -6,14 +6,11 @@
     --caixa-texto: #ac635c;
     --caixa-texto-2: #000;
 
-    body{
+   .body{
         background-color: #fff;
         color: var(--caixa-texto);
     }
 
-.texto_cabecalho{
-    color: var(--caixa-texto);
 
 
 
-}
