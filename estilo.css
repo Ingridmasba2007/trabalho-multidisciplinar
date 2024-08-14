@@ -10,9 +10,8 @@
         background-color: #fff;
     }
 
-    .cabecalho{
-        color: var(--texto-cabecalho);
-    }
+.texto_cabecalho{
+    color: var(--caixa-texto);
 
 
 
