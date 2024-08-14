@@ -1,12 +1,12 @@
-.root{
+:root{
     --cxabecalho:  #fff;
     --texto-cabecalho: #ac635c;
     --texto-titulo: #fff;
     --texto-geral: #ffe3e3;
     --caixa-texto: #ac635c;
     --caixa-texto-2: #000;
-
-   .body{
+}
+   body{
         background-color: #fff;
         color: var(--caixa-texto);
     }
