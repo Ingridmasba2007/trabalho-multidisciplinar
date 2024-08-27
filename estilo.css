@@ -16,6 +16,9 @@
 
 .cabecalho{
     background-color: var(--cabecalho);
+    display: flex;
+    justify-content: center;
+    margin: 0;
 }
 
 
