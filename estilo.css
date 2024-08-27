@@ -1,5 +1,5 @@
 :root{
-    --cxabecalho:  #fff;
+    --cabecalho:  #fff;
     --texto-cabecalho: #ac635c;
     --texto-titulo: #fff;
     --texto-geral: #ffe3e3;
@@ -8,10 +8,13 @@
 }
    body{
        background-image: url("./imagens/fundositelegal.png");
-       background-repeat: space;
+       background-repeat:
         color: var(--caixa-texto);
     }
 
+.cabecalho{
+    background-color: var(--cabecalho);
+}
 
 
 
