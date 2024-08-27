@@ -8,7 +8,7 @@
 }
    body{
        background-image: url("./imagens/fundositelegal.png");
-       background-repeat: no-repeat;
+       background-repeat:inherit
         color: var(--caixa-texto);
     }
 
