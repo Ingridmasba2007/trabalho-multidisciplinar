@@ -23,5 +23,8 @@
     margin: 0;
 }
 
+.caixa-texto-1{
+    background-color: var(--caixa-texto);
+}
 
 
