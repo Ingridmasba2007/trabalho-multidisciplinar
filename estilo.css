@@ -7,6 +7,7 @@
     --caixa-texto-2: #000;
 }
    body{
+       background-image: url("./imagens/fundositelegal.png");
         color: var(--caixa-texto);
     }
 
