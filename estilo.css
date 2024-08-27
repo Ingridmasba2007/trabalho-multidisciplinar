@@ -16,6 +16,7 @@
 
 .cabecalho{
     background-color: var(--cabecalho);
+    background-size: cover;
     display: flex;
     justify-content: center;
     margin: 0;
