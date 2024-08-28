@@ -20,11 +20,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0;
+    margin: 10;
     color: var(--caixa-texto);
 }
 
 .caixa-texto-1{
+    padding: 10px;
     background-color: var(--caixa-texto);
     color: var(--texto-geral);
     dis
