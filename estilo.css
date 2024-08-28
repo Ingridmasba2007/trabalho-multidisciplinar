@@ -11,8 +11,7 @@
        background-repeat: no-repeat;
        background-size: cover;
        height: 100vh;
-        color: var(--texto-geral);
-        font-size: 45px;
+    font-size: 45px;
     }
 
 .cabecalho{
@@ -22,10 +21,12 @@
     justify-content: center;
     align-items: center;
     margin: 0;
+    color: var(--caixa-texto);
 }
 
 .caixa-texto-1{
     background-color: var(--caixa-texto);
+    color: var(--texto-geral);
 }
 
 
