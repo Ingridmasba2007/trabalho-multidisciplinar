@@ -12,6 +12,7 @@
        background-size: cover;
        height: 100vh;
         color: var(--texto-geral);
+        font-size: 45px;
     }
 
 .cabecalho{
