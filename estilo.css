@@ -27,6 +27,7 @@
 .caixa-texto-1{
     background-color: var(--caixa-texto);
     color: var(--texto-geral);
+    justify-content: center;
 }
 
 
