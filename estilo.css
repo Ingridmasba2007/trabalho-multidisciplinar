@@ -68,14 +68,7 @@
 }
    
 }
-padding: 10px;
-margin: 50px;
-background-color: var(--caixa-texto);
-background-size: cover;
-color: var(--texto-geral);
-align-items: center;
-justify-content: center;
-text-align: center;
+
 
 .caixa-texto-3{
     padding: 10px;
@@ -90,3 +83,11 @@ text-align: center;
 
 background: rgb(134,151,158);
 background: linear-gradient(90deg, rgba(134,151,158,1) 0%, rgba(237,196,233,1) 100%);
+padding: 10px;
+margin: 50px;
+background-color: var(--caixa-texto);
+background-size: cover;
+color: var(--texto-geral);
+align-items: center;
+justify-content: center;
+text-align: center;
