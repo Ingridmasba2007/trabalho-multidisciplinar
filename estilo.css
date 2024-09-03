@@ -6,6 +6,7 @@
     --caixa-texto: #ac635ca8;
     --caixa-texto-2: #000;
     --titulo-texto: #D2FFF2;
+    --titulo-texto2:#000;
 }
    body{
        background-image: url("./imagens/fundositelegal.png");
@@ -39,12 +40,9 @@
     text-align: center;
 }
 .titulo-caixa-2{
-    color: var(--titulo-texto);
+    color: var(--titulo-texto2)
 
 }
-background-image: url("./imagens/fundositelegal.png");
-background-repeat: no-repeat;
-background-size: cover;
 
 .caixa-texto-2{
     background-image: url("./imagens/fundositelegal.png");
