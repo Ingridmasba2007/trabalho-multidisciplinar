@@ -42,6 +42,10 @@
     color: var(--titulo-texto);
 
 }
+background-image: url("./imagens/fundositelegal.png");
+background-repeat: no-repeat;
+background-size: cover;
+
 .caixa-texto-2{
     background-image: url("./imagens/fundositelegal.png");
     background-repeat: no-repeat;
