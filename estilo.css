@@ -38,6 +38,9 @@
     justify-content: center;
     text-align: center;
 }
+.titulo-caixa-2{
+    color: var(--titulo-texto);
+}
 .caixa-texto-2{
     padding: 10px;
     margin: 50px;
