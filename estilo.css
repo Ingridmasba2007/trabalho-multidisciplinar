@@ -55,6 +55,18 @@
     text-align: center;
 }
 
+.caixa-texto-3{
+    background-image: url("./imagens/fundositelegal.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--caixa-texto);
+    color: var(--texto-geral);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
 .caixa{
     padding: 10px;
 margin: 50px;
