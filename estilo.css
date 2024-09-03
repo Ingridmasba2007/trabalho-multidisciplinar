@@ -58,15 +58,24 @@
 }
 
 .caixa{
-    padding: 10px;
-    margin: 50px;
-    background-color: var(--caixa-texto);
+    background-color: var(--cabecalho);
     background-size: cover;
-    color: var(--texto-geral);
-    align-items: center;
+    display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
+    margin: 10;
+    color: var(--caixa-texto);
 }
+   
+}
+padding: 10px;
+margin: 50px;
+background-color: var(--caixa-texto);
+background-size: cover;
+color: var(--texto-geral);
+align-items: center;
+justify-content: center;
+text-align: center;
 
 .caixa-texto-3{
     padding: 10px;
