@@ -59,7 +59,7 @@
 
 .caixa{
     padding: 10px;
-   
+    margin: 50px;
     background-color: var(--caixa-texto);
     color: var(--texto-geral);
     align-items: center;
