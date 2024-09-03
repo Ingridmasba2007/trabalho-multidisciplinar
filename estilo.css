@@ -61,6 +61,7 @@
     padding: 10px;
     margin: 50px;
     background-color: var(--caixa-texto);
+    background-size: cover;
     color: var(--texto-geral);
     align-items: center;
     justify-content: center;
