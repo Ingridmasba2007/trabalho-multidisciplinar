@@ -38,7 +38,15 @@
     justify-content: center;
     text-align: center;
 }
-
+.caixa-texto-2{
+    padding: 10px;
+    margin: 50px;
+    background-color: var(--caixa-texto);
+    color: var(--texto-geral);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 
 background: rgb(134,151,158);
 background: linear-gradient(90deg, rgba(134,151,158,1) 0%, rgba(237,196,233,1) 100%);
