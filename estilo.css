@@ -40,11 +40,12 @@
 }
 .titulo-caixa-2{
     color: var(--titulo-texto);
+
+}
+.caixa-texto-2{
     background-image: url("./imagens/fundositelegal.png");
     background-repeat: no-repeat;
     background-size: cover;
-}
-.caixa-texto-2{
     padding: 10px;
     margin: 50px;
     background-color: var(--caixa-texto);
