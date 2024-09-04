@@ -39,7 +39,7 @@
     justify-content: center;
     text-align: center;
     border-radius: 20px;
-    font-size: 50px;
+    font-size: 25px;
 }
 .titulo-caixa-2{
     color: var(--titulo-texto)
@@ -52,7 +52,7 @@
     background-size: cover;
     background-color: var(--caixa-texto);
     color: var(--texto-geral);
-    font-size: 50px;
+    font-size: 25px;
     align-items: center;
     justify-content: center;
     text-align: center;
