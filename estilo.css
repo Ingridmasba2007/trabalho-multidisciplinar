@@ -51,6 +51,7 @@
     background-size: cover;
     background-color: var(--caixa-texto);
     color: var(--texto-geral);
+    font-size: 10px;
     align-items: center;
     justify-content: center;
     text-align: center;
