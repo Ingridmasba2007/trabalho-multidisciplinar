@@ -38,6 +38,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    border-radius: 20px;
 }
 .titulo-caixa-2{
     color: var(--titulo-texto)
@@ -53,6 +54,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    border-radius: 20px;
 }
 
 .caixa-texto-3{
@@ -64,6 +66,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    border-radius: 20px;
 }
 
 
